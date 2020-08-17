@@ -22,9 +22,7 @@
 
   daum.net -> 114.108.157.19
 
-![스크린샷 2020-08-17 오전 9.46.07](/Users/kimminjeong/Library/Application Support/typora-user-images/스크린샷 2020-08-17 오전 9.46.07.png)
-
-
+  
 
 ### 도메인의 구성요소
 
@@ -52,4 +50,10 @@
   - URL : https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/121/298.png
 
 
+
+### 도메인
+
+- 도메인
+
+- - 서비스가 운영되고 있는 컴퓨터 / 서버를 식별하기 위한 단위
 
